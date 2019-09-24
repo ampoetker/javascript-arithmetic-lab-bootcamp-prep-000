@@ -19,7 +19,7 @@ function dec(n) {
 function makeInt(n) {
   return (n)
 }
-function makeInt(n, base) {
+function makeInt(n, 10) {
   return (n)
 }
 function preserveDecimal(n) {
