@@ -19,12 +19,6 @@ function dec(n) {
 function makeInt(n) {
   return (n)
 }
-function makeInt(n, 10) {
-  return (n)
-}
-function preserveDecimal(n) {
-  return (n)
-}
-function preserveDecimal(NaN) {
-  return (n)
+function makeInt(a, base) {
+  return (a)
 }
