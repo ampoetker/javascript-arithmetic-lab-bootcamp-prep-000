@@ -20,5 +20,5 @@ function makeInt(n) {
   return (n)
 }
 function preservedecimal(n) {
-  parseFloat(n)
+  parseFloat(n) * 2.0 * Math.PI;
 }
