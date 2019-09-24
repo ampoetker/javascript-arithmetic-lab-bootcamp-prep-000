@@ -17,8 +17,6 @@ function dec(n) {
   return (n - 1)
 }
 function makeInt(n) {
+  parseInt('2', 10)
   return (n)
-}
-function preservedecimal(n) {
-  parseFloat(2.222) * 2.0 * Math.PI;
 }
