@@ -20,3 +20,6 @@ function makeInt(n) {
   parseInt('2.222', 10)
   return (n)
 }
+function preserveDecimal(n) {
+  parseFloat()
+}
